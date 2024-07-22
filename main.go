@@ -146,7 +146,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"            // 月幕galgame
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/yujn"             // 遇见API
 
-	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"           // 鬼东西
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"           // 鬼东西.
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
@@ -179,7 +179,7 @@ import (
 	//                      ^^^^^^^低优先级区^^^^^^^                      //
 	//               ^^^^^^^^^^^^^^低优先级区^^^^^^^^^^^^^^               //
 	// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^低优先级区^^^^^^^^^^^^^^^^^^^^^^^^^^^^ //
-	// ----------------------------低优先级区----------------------------- //
+	// ----------------------------低优先级区---------------------------- //
 	//                                                                  //
 	//                                                                  //
 	//                                                                  //
